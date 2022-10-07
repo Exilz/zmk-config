@@ -4,6 +4,19 @@ Firmware for my fully wireless Sofle V2 running ZMK.
 
 This keymap is primarily designed for OSX running with a french (AZERTY) keyboard layout.
 
+## French OSX keycodes for ZMK
+
+* Dash and underscore -_ `EQUAL`
+* French u with accent ù `SQT`
+* At and hash @# `NON_US_BSLH`
+* Greater than & lower than <> `GRAVE` & `LS(GRAVE)`
+* Opening & closing curly brackets {} : `LA(NUMBER_5)` and `LA(MINUS)`
+* Opening & closing brackets [] : `LS(LA(NUMBER_5))` and `LS(LA(MINUS))`
+* Dollar and star $* : `RBKT`
+* Equal and plus =+ : `FSLH`
+* Backtick \` : `BSLH`
+* Closing parenthesis ) : `MINUS`
+
 ## Build details
 
 * Wooden case from falbatech
