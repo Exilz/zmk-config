@@ -23,7 +23,7 @@
 &kp TAB &kp N1 &kp N2   &kp N3   &kp N4    &kp N5                      &kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp BSPC
 &kp ESC   &kp AT  &kp HASH    &kp DOLLAR    &kp PERCENT     &kp CARET                       &kp NON_US_BSLH  &kp PIPE2     &kp SEMI     &kp COLON    &kp SQT    &kp DQT
 &kp LSHFT   &kp AMPS  &kp STAR    &kp LPAR    &kp RPAR     &kp PLUS                       &kp COMMA  &kp LT     &kp DOT     &kp GT    &kp LBKT &kp RBKT
-&kp LCTRL &kp UNDER  &kp FSLH    &kp QMARK    &kp BSLH     &kp PIPE  &kp C_MUTE &none     &kp RBRC  &kp GRAVE     &kp TILD &kp NON_US_BSLH  &kp TLDE2 &kp RSHFT
+&kp LCTRL &kp UNDER  &kp FSLH    &kp QMARK    &kp BSLH     &kp PIPE  &kp C_MUTE &none     &kp RBRC  &kp GRAVE     &kp TILDE &kp NON_US_BSLH  &kp TILDE2 &kp RSHFT
                  &kp LGUI &kp LALT &kp LCTRL &mo 1  &kp SPACE    &kp SPACE &mo 2  &kp RCTRL &kp RALT  &kp RGUI
             >;
 
